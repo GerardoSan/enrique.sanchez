@@ -83,7 +83,7 @@ Soy especialista en arquitectura Cloud con enfoque en:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GerardoSan&theme=tokyonight" />
 </p>
 
 ---
